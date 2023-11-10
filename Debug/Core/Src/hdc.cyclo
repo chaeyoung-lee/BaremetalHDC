@@ -1,0 +1,6 @@
+../Core/Src/hdc.c:15:6:bind	2
+../Core/Src/hdc.c:22:6:bundle	4
+../Core/Src/hdc.c:33:6:permute	2
+../Core/Src/hdc.c:42:8:distance	2
+../Core/Src/hdc.c:51:10:encode	7
+../Core/Src/hdc.c:87:5:predict	3

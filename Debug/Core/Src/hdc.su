@@ -1,0 +1,6 @@
+../Core/Src/hdc.c:15:6:bind	32	static
+../Core/Src/hdc.c:22:6:bundle	56	static
+../Core/Src/hdc.c:33:6:permute	24	static
+../Core/Src/hdc.c:42:8:distance	24	static
+../Core/Src/hdc.c:51:10:encode	10048	static
+../Core/Src/hdc.c:87:5:predict	48	static
